@@ -125,7 +125,12 @@ In this file, I have made a function calles trigger, which will set the values t
 
 Explore the high school analysis using the high_school_analysis.pbix file, visualizing student performance, demographics, and social aspects. 
 
-### 4. SQL Connection Analysis
+
+### 4. EDA
+
+In main.py file, i have performed Exploratory Data Analysis (EDA) using Python Programming. 
+
+### 5. SQL Connection Analysis
 
 In sql_connection_analysis.py file, I have established a connection between MySQL and Python using "mysql.connector". And the libraries used are:
 
