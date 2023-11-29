@@ -128,7 +128,7 @@ Explore the high school analysis using the high_school_analysis.pbix file, visua
 
 ### 4. EDA
 
-In main.py file, i have performed Exploratory Data Analysis (EDA) using Python Programming. 
+In main.py file, i have performed Exploratory Data Analysis (EDA) using Python Programming.
 
 ### 5. SQL Connection Analysis
 
